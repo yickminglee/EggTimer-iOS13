@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C79A72C25BBD59F00F09379 /* service-bell.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2C79A72B25BBD59E00F09379 /* service-bell.wav */; };
 		AD5C106222D34E35001E14A5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106122D34E35001E14A5 /* README.md */; };
 		AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AD5C106522D36212001E14A5 /* alarm_sound.mp3 */; };
 		ADF037EE22D332A800A69E9A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF037ED22D332A800A69E9A /* AppDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C79A72B25BBD59E00F09379 /* service-bell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "service-bell.wav"; path = "../../../../Downloads/service-bell.wav"; sourceTree = "<group>"; };
 		AD5C106122D34E35001E14A5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AD5C106522D36212001E14A5 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 		ADF037EA22D332A800A69E9A /* EggTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EggTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -69,6 +71,7 @@
 				AD5C106522D36212001E14A5 /* alarm_sound.mp3 */,
 				ADF037F822D332AD00A69E9A /* LaunchScreen.storyboard */,
 				ADF037FB22D332AD00A69E9A /* Info.plist */,
+				2C79A72B25BBD59E00F09379 /* service-bell.wav */,
 			);
 			path = EggTimer;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				ADF037FA22D332AD00A69E9A /* LaunchScreen.storyboard in Resources */,
 				AD5C106622D36212001E14A5 /* alarm_sound.mp3 in Resources */,
 				ADF037F722D332AD00A69E9A /* Assets.xcassets in Resources */,
+				2C79A72C25BBD59F00F09379 /* service-bell.wav in Resources */,
 				AD5C106222D34E35001E14A5 /* README.md in Resources */,
 				ADF037F522D332A800A69E9A /* Main.storyboard in Resources */,
 			);
